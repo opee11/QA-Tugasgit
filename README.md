@@ -1,2 +1,2 @@
-# QA-Tugasgit
+# QA-Tugas
 Tugasday1
